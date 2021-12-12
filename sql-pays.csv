@@ -1,0 +1,244 @@
+index,fr,en
+1,Afghanistan,Afghanistan
+2,Albanie,Albania
+3,Antarctique,Antarctica
+4,Algérie,Algeria
+5,Samoa Américaines,American Samoa
+6,Andorre,Andorra
+7,Angola,Angola
+8,Antigua-et-Barbuda,Antigua and Barbuda
+9,Azerbaïdjan,Azerbaijan
+10,Argentine,Argentina
+11,Australie,Australia
+12,Autriche,Austria
+13,Bahamas,Bahamas
+14,Bahreïn,Bahrain
+15,Bangladesh,Bangladesh
+16,Arménie,Armenia
+17,Barbade,Barbados
+18,Belgique,Belgium
+19,Bermudes,Bermuda
+20,Bhoutan,Bhutan
+21,Bolivie,Bolivia
+22,Bosnie-Herzégovine,Bosnia and Herzegovina
+23,Botswana,Botswana
+24,Île Bouvet,Bouvet Island
+25,Brésil,Brazil
+26,Belize,Belize
+27,Territoire Britannique de l'Océan Indien,British Indian Ocean Territory
+28,Îles Salomon,Solomon Islands
+29,Îles Vierges Britanniques,British Virgin Islands
+30,Brunéi Darussalam,Brunei Darussalam
+31,Bulgarie,Bulgaria
+32,Birmanie,Myanmar
+33,Burundi,Burundi
+34,Biélorussie,Belarus
+35,Cambodge,Cambodia
+36,Cameroun,Cameroon
+37,Canada,Canada
+38,Cap-vert,Cape Verde
+39,Îles Caïmanes,Cayman Islands
+40,République centrafricaine,Central African Republic
+41,Sri Lanka,Sri Lanka
+42,Tchad,Chad
+43,Chili,Chile
+44,Chine,China
+45,Taïwan,Taiwan Province of China
+46,Île Christmas,Christmas Island
+47,Îles Cocos (Keeling),Cocos (Keeling) Islands
+48,Colombie,Colombia
+49,Comores,Comoros
+50,Mayotte,Mayotte
+51,République du Congo,Congo (Brazzaville)
+52,République démocratique du Congo,Congo (Kinshasa)
+53,Îles Cook,Cook Islands
+54,Costa Rica,Costa Rica
+55,Croatie,Croatia
+56,Cuba,Cuba
+57,Chypre,Cyprus
+58,République tchèque,Czech Republic
+59,Bénin,Benin
+60,Danemark,Denmark
+61,Dominique,Dominica
+62,République dominicaine,Dominican Republic
+63,Équateur,Ecuador
+64,Salvador,El Salvador
+65,Guinée Équatoriale,Equatorial Guinea
+66,Éthiopie,Ethiopia
+67,Érythrée,Eritrea
+68,Estonie,Estonia
+69,Îles Féroé,Faroe Islands
+70,Îles (malvinas) Falkland,Falkland Islands
+71,Géorgie du Sud et les Îles Sandwich du Sud,South Georgia and the South Sandwich Islands
+72,Fidji,Fiji
+73,Finlande,Finland
+74,Îles Åland,Åland Islands
+75,France,France
+76,Guyane Française,French Guiana
+77,Polynésie Française,French Polynesia
+78,Terres Australes Françaises,French Southern Territories
+79,Djibouti,Djibouti
+80,Gabon,Gabon
+81,Géorgie,Georgia
+82,Gambie,Gambia
+83,Palestine,Palestinian Territories
+84,Allemagne,Germany
+85,Ghana,Ghana
+86,Gibraltar,Gibraltar
+87,Kiribati,Kiribati
+88,Grèce,Greece
+89,Groenland,Greenland
+90,Grenade,Grenada
+91,Guadeloupe,Guadeloupe
+92,Guam,Guam
+93,Guatemala,Guatemala
+94,Guinée,Guinea
+95,Guyana,Guyana
+96,Haïti,Haiti
+97,Îles Heard et Mcdonald,Heard Island and McDonald Islands
+98,Saint-Siège (état de la Cité du Vatican),Vatican City State
+99,Honduras,Honduras
+100,Hong Kong,Hong Kong S.A.R. of China
+101,Hongrie,Hungary
+102,Islande,Iceland
+103,Inde,India
+104,Indonésie,Indonesia
+105,République Islamique d'Iran,Islamic Republic of Iran
+106,Irak,Iraq
+107,Irlande,Ireland
+108,Israël,Israel
+109,Italie,Italy
+110,Côte d'Ivoire,Ivory Coast
+111,Jamaïque,Jamaica
+112,Japon,Japan
+113,Kazakhstan,Kazakhstan
+114,Jordanie,Jordan
+115,Kenya,Kenya
+116,République Populaire Démocratique de Corée,Democratic People's Republic of Korea
+117,Corée du Sud,South Korea
+118,Koweït,Kuwait
+119,Kirghizistan,Kyrgyzstan
+120,République Démocratique Populaire Lao,Lao People's Democratic Republic
+121,Liban,Lebanon
+122,Lesotho,Lesotho
+123,Lettonie,Latvia
+124,Libéria,Liberia
+125,Libye,Libya
+126,Liechtenstein,Liechtenstein
+127,Lituanie,Lithuania
+128,Luxembourg,Luxembourg
+129,Macao,Macao
+130,Madagascar,Madagascar
+131,Malawi,Malawi
+132,Malaisie,Malaysia
+133,Maldives,Maldives
+134,Mali,Mali
+135,Malte,Malta
+136,Martinique,Martinique
+137,Mauritanie,Mauritania
+138,Maurice,Mauritius
+139,Mexique,Mexico
+140,Monaco,Monaco
+141,Mongolie,Mongolia
+142,Moldavie,Moldova
+143,Montserrat,Montserrat
+144,Maroc,Morocco
+145,Mozambique,Mozambique
+146,Oman,Oman
+147,Namibie,Namibia
+148,Nauru,Nauru
+149,Népal,Nepal
+150,Pays-Bas,Netherlands
+151,Antilles Néerlandaises,Netherlands Antilles
+152,Aruba,Aruba
+153,Nouvelle-Calédonie,New Caledonia
+154,Vanuatu,Vanuatu
+155,Nouvelle-Zélande,New Zealand
+156,Nicaragua,Nicaragua
+157,Niger,Niger
+158,Nigéria,Nigeria
+159,Niué,Niue
+160,Île Norfolk,Norfolk Island
+161,Norvège,Norway
+162,Îles Mariannes du Nord,Northern Mariana Islands
+163,Îles Mineures Éloignées des États-Unis,United States Minor Outlying Islands
+164,États Fédérés de Micronésie,Federated States of Micronesia
+165,Îles Marshall,Marshall Islands
+166,Palaos,Palau
+167,Pakistan,Pakistan
+168,Panama,Panama
+169,Papouasie-Nouvelle-Guinée,Papua New Guinea
+170,Paraguay,Paraguay
+171,Pérou,Peru
+172,Philippines,Philippines
+173,Pitcairn,Pitcairn
+174,Pologne,Poland
+175,Portugal,Portugal
+176,Guinée-Bissau,Guinea-Bissau
+177,Timor-Leste,Timor-Leste
+178,Porto Rico,Puerto Rico
+179,Qatar,Qatar
+180,Réunion,Réunion
+181,Roumanie,Romania
+182,Russie,Russia
+183,Rwanda,Rwanda
+184,Sainte-Hélène,Saint Helena
+185,Saint-Kitts-et-Nevis,Saint Kitts and Nevis
+186,Anguilla,Anguilla
+187,Sainte-Lucie,Saint Lucia
+188,Saint-Pierre-et-Miquelon,Saint-Pierre and Miquelon
+189,Saint-Vincent-et-les Grenadines,Saint Vincent and the Grenadines
+190,Saint-Marin,San Marino
+191,Sao Tomé-et-Principe,Sao Tome and Principe
+192,Arabie saoudite,Saudi Arabia
+193,Sénégal,Senegal
+194,Seychelles,Seychelles
+195,Sierra Leone,Sierra Leone
+196,Singapour,Singapore
+197,Slovaquie,Slovakia
+198,Viêt Nam,Vietnam
+199,Slovénie,Slovenia
+200,Somalie,Somalia
+201,Afrique du Sud,South Africa
+202,Zimbabwe,Zimbabwe
+203,Espagne,Spain
+204,Sahara Occidental,Western Sahara
+205,Soudan,Sudan
+206,Soudan du Sud,South Sudan
+207,Suriname,Suriname
+208,Svalbard etÎle Jan Mayen,Svalbard and Jan Mayen
+209,Swaziland,Swaziland
+210,Suède,Sweden
+211,Suisse,Switzerland
+212,Syrie,Syria
+213,Tadjikistan,Tajikistan
+214,Thaïlande,Thailand
+215,Togo,Togo
+216,Tokelau,Tokelau
+217,Tonga,Tonga
+218,Trinité-et-Tobago,Trinidad and Tobago
+219,Émirats arabes unis,United Arab Emirates
+220,Tunisie,Tunisia
+221,Turquie,Turkey
+222,Turkménistan,Turkmenistan
+223,Îles Turks et Caïques,Turks and Caicos Islands
+224,Tuvalu,Tuvalu
+225,Ouganda,Uganda
+226,Ukraine,Ukraine
+227,Mac�doine du Nord,North Macedonia
+228,Égypte,Egypt
+229,Royaume-Uni,United Kingdom
+230,Île de Man,Isle of Man
+231,Tanzanie,Tanzania
+232,États-Unis,United States
+233,Îles Vierges des États-Unis,U.S. Virgin Islands
+234,Burkina Faso,Burkina Faso
+235,Uruguay,Uruguay
+236,Ouzbékistan,Uzbekistan
+237,Venezuela,Venezuela
+238,Wallis et Futuna,Wallis and Futuna
+239,Samoa,Samoa
+240,Yémen,Yemen
+241,Serbie,Serbia
+242,Zambie,Zambia
+243,Monténégro,Montenegro

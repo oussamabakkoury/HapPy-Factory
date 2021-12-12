@@ -1,0 +1,1651 @@
+;Country;Year;Corrup
+0;Afghanistan;2008;18
+1;Afghanistan;2009;15
+2;Afghanistan;2010;14
+3;Afghanistan;2011;15
+4;Afghanistan;2012;8
+5;Afghanistan;2013;8
+6;Afghanistan;2014;12
+7;Afghanistan;2015;11
+8;Afghanistan;2016;15
+9;Afghanistan;2017;15
+10;Afghanistan;2018;15
+11;Afghanistan;2019;16
+12;Albania;2007;29
+13;Albania;2009;32
+14;Albania;2010;33
+15;Albania;2011;31
+16;Albania;2012;33
+17;Albania;2013;31
+18;Albania;2014;33
+19;Albania;2015;36
+20;Albania;2016;39
+21;Albania;2017;38
+22;Albania;2018;36
+23;Albania;2019;35
+24;Albania;2020;36
+25;Algeria;2011;29
+26;Algeria;2012;34
+27;Algeria;2017;33
+28;Algeria;2018;34
+29;Algeria;2019;35
+30;Angola;2011;20
+31;Angola;2012;22
+32;Angola;2013;23
+33;Angola;2014;19
+34;Argentina;2006;29
+35;Argentina;2007;29
+36;Argentina;2008;29
+37;Argentina;2009;29
+38;Argentina;2010;29
+39;Argentina;2011;30
+40;Argentina;2012;35
+41;Argentina;2013;34
+42;Argentina;2014;34
+43;Argentina;2015;32
+44;Argentina;2016;36
+45;Argentina;2017;39
+46;Argentina;2018;42
+47;Argentina;2019;45
+48;Argentina;2020;42
+49;Armenia;2006;29
+50;Armenia;2007;29
+51;Armenia;2008;30
+52;Armenia;2009;29
+53;Armenia;2010;26
+54;Armenia;2011;26
+55;Armenia;2012;34
+56;Armenia;2013;36
+57;Armenia;2014;37
+58;Armenia;2015;35
+59;Armenia;2016;33
+60;Armenia;2017;35
+61;Armenia;2018;38
+62;Armenia;2019;42
+63;Australia;2007;86
+64;Australia;2008;87
+65;Australia;2010;87
+66;Australia;2011;88
+67;Australia;2012;85
+68;Australia;2013;81
+69;Australia;2014;80
+70;Australia;2015;79
+71;Australia;2016;79
+72;Australia;2017;77
+73;Australia;2018;77
+74;Australia;2019;77
+75;Australia;2020;77
+76;Austria;2006;86
+77;Austria;2008;81
+78;Austria;2010;79
+79;Austria;2011;78
+80;Austria;2012;69
+81;Austria;2013;69
+82;Austria;2014;72
+83;Austria;2015;76
+84;Austria;2016;75
+85;Austria;2017;75
+86;Austria;2018;76
+87;Austria;2019;77
+88;Austria;2020;76
+89;Azerbaijan;2006;22
+90;Azerbaijan;2007;24
+91;Azerbaijan;2008;21
+92;Azerbaijan;2009;19
+93;Azerbaijan;2010;24
+94;Azerbaijan;2011;24
+95;Azerbaijan;2012;27
+96;Azerbaijan;2013;28
+97;Azerbaijan;2014;29
+98;Azerbaijan;2015;29
+99;Azerbaijan;2016;30
+100;Azerbaijan;2017;31
+101;Azerbaijan;2018;30
+102;Azerbaijan;2019;30
+103;Bahrain;2009;51
+104;Bahrain;2010;49
+105;Bahrain;2011;51
+106;Bangladesh;2006;17
+107;Bangladesh;2007;20
+108;Bangladesh;2008;20
+109;Bangladesh;2009;21
+110;Bangladesh;2010;24
+111;Bangladesh;2011;27
+112;Bangladesh;2012;27
+113;Bangladesh;2013;26
+114;Bangladesh;2015;25
+115;Bangladesh;2016;26
+116;Bangladesh;2017;28
+117;Bangladesh;2018;27
+118;Bangladesh;2019;26
+119;Bangladesh;2020;26
+120;Belarus;2006;26
+121;Belarus;2007;21
+122;Belarus;2009;20
+123;Belarus;2010;25
+124;Belarus;2011;24
+125;Belarus;2012;31
+126;Belarus;2013;29
+127;Belarus;2014;31
+128;Belarus;2015;32
+129;Belarus;2016;40
+130;Belarus;2017;44
+131;Belarus;2018;44
+132;Belarus;2019;45
+133;Belgium;2007;71
+134;Belgium;2008;73
+135;Belgium;2010;71
+136;Belgium;2011;75
+137;Belgium;2012;75
+138;Belgium;2013;75
+139;Belgium;2014;76
+140;Belgium;2015;77
+141;Belgium;2016;77
+142;Belgium;2017;75
+143;Belgium;2018;75
+144;Belgium;2019;75
+145;Belgium;2020;76
+146;Benin;2006;25
+147;Benin;2008;31
+148;Benin;2011;30
+149;Benin;2012;36
+150;Benin;2013;36
+151;Benin;2014;39
+152;Benin;2015;37
+153;Benin;2016;36
+154;Benin;2017;39
+155;Benin;2018;40
+156;Benin;2019;41
+157;Benin;2020;41
+158;Bhutan;2013;63
+159;Bhutan;2014;65
+160;Bhutan;2015;65
+161;Bolivia;2006;27
+162;Bolivia;2007;29
+163;Bolivia;2008;30
+164;Bolivia;2009;27
+165;Bolivia;2010;28
+166;Bolivia;2011;28
+167;Bolivia;2012;34
+168;Bolivia;2013;34
+169;Bolivia;2014;35
+170;Bolivia;2015;34
+171;Bolivia;2016;33
+172;Bolivia;2017;33
+173;Bolivia;2018;32
+174;Bolivia;2019;31
+175;Bolivia;2020;31
+176;Bosnia and Herzegovina;2015;38
+177;Bosnia and Herzegovina;2016;39
+178;Bosnia and Herzegovina;2017;38
+179;Bosnia and Herzegovina;2018;37
+180;Bosnia and Herzegovina;2019;36
+181;Bosnia and Herzegovina;2020;35
+182;Botswana;2006;56
+183;Botswana;2008;58
+184;Botswana;2010;58
+185;Botswana;2011;61
+186;Botswana;2012;65
+187;Botswana;2013;64
+188;Botswana;2014;63
+189;Botswana;2015;63
+190;Botswana;2016;60
+191;Botswana;2017;61
+192;Botswana;2018;61
+193;Botswana;2019;61
+194;Brazil;2007;35
+195;Brazil;2008;35
+196;Brazil;2009;37
+197;Brazil;2010;37
+198;Brazil;2011;38
+199;Brazil;2013;42
+200;Brazil;2014;43
+201;Brazil;2015;38
+202;Brazil;2016;40
+203;Brazil;2017;37
+204;Brazil;2018;36
+205;Brazil;2019;35
+206;Brazil;2020;38
+207;Bulgaria;2007;41
+208;Bulgaria;2010;36
+209;Bulgaria;2011;33
+210;Bulgaria;2012;41
+211;Bulgaria;2013;41
+212;Bulgaria;2014;43
+213;Bulgaria;2015;41
+214;Bulgaria;2016;41
+215;Bulgaria;2017;43
+216;Bulgaria;2018;43
+217;Bulgaria;2019;43
+218;Bulgaria;2020;44
+219;Burkina Faso;2006;32
+220;Burkina Faso;2007;29
+221;Burkina Faso;2008;35
+222;Burkina Faso;2010;31
+223;Burkina Faso;2011;30
+224;Burkina Faso;2012;38
+225;Burkina Faso;2013;38
+226;Burkina Faso;2014;38
+227;Burkina Faso;2015;38
+228;Burkina Faso;2016;42
+229;Burkina Faso;2017;42
+230;Burkina Faso;2018;41
+231;Burkina Faso;2019;40
+232;Burundi;2008;25
+233;Burundi;2009;19
+234;Burundi;2011;19
+235;Burundi;2014;20
+236;Burundi;2018;20
+237;Cambodia;2008;20
+238;Cambodia;2009;18
+239;Cambodia;2010;21
+240;Cambodia;2011;21
+241;Cambodia;2012;22
+242;Cambodia;2013;20
+243;Cambodia;2014;21
+244;Cambodia;2015;21
+245;Cambodia;2016;21
+246;Cambodia;2017;21
+247;Cambodia;2019;20
+248;Cambodia;2020;21
+249;Cameroon;2006;22
+250;Cameroon;2007;23
+251;Cameroon;2008;24
+252;Cameroon;2009;23
+253;Cameroon;2010;22
+254;Cameroon;2011;25
+255;Cameroon;2012;26
+256;Cameroon;2013;25
+257;Cameroon;2014;27
+258;Cameroon;2015;27
+259;Cameroon;2016;26
+260;Cameroon;2017;25
+261;Cameroon;2018;25
+262;Cameroon;2019;25
+263;Cameroon;2020;25
+264;Canada;2005;84
+265;Canada;2008;87
+266;Canada;2009;87
+267;Canada;2010;89
+268;Canada;2011;87
+269;Canada;2012;84
+270;Canada;2013;81
+271;Canada;2014;81
+272;Canada;2015;83
+273;Canada;2016;82
+274;Canada;2017;82
+275;Canada;2018;79
+276;Canada;2019;77
+277;Canada;2020;77
+278;Central African Republic;2016;20
+279;Central African Republic;2017;23
+280;Chad;2006;17
+281;Chad;2007;20
+282;Chad;2008;18
+283;Chad;2009;16
+284;Chad;2010;17
+285;Chad;2011;20
+286;Chad;2012;19
+287;Chad;2013;19
+288;Chad;2014;22
+289;Chad;2015;22
+290;Chad;2016;20
+291;Chad;2017;20
+292;Chad;2018;20
+293;Chad;2019;20
+294;Chile;2006;73
+295;Chile;2007;70
+296;Chile;2008;69
+297;Chile;2009;67
+298;Chile;2010;72
+299;Chile;2011;72
+300;Chile;2012;72
+301;Chile;2013;71
+302;Chile;2014;73
+303;Chile;2015;70
+304;Chile;2016;66
+305;Chile;2017;67
+306;Chile;2018;67
+307;Chile;2019;67
+308;Chile;2020;67
+309;Colombia;2006;39
+310;Colombia;2007;38
+311;Colombia;2008;38
+312;Colombia;2009;37
+313;Colombia;2010;35
+314;Colombia;2011;34
+315;Colombia;2012;36
+316;Colombia;2013;36
+317;Colombia;2014;37
+318;Colombia;2015;37
+319;Colombia;2016;37
+320;Colombia;2017;37
+321;Colombia;2018;37
+322;Colombia;2019;37
+323;Colombia;2020;39
+324;Comoros;2009;25
+325;Comoros;2010;21
+326;Comoros;2011;24
+327;Comoros;2012;28
+328;Comoros;2018;26
+329;Comoros;2019;25
+330;Congo (Brazzaville);2015;23
+331;Congo (Brazzaville);2016;20
+332;Congo (Brazzaville);2017;21
+333;Congo (Brazzaville);2018;20
+334;Congo (Brazzaville);2019;19
+335;Congo (Kinshasa);2015;22
+336;Congo (Kinshasa);2016;21
+337;Congo (Kinshasa);2017;21
+338;Costa Rica;2006;41
+339;Costa Rica;2007;50
+340;Costa Rica;2008;51
+341;Costa Rica;2009;53
+342;Costa Rica;2010;53
+343;Costa Rica;2011;48
+344;Costa Rica;2012;54
+345;Costa Rica;2013;53
+346;Costa Rica;2014;54
+347;Costa Rica;2015;55
+348;Costa Rica;2016;58
+349;Costa Rica;2017;59
+350;Costa Rica;2018;57
+351;Costa Rica;2019;56
+352;Croatia;2007;41
+353;Croatia;2009;41
+354;Croatia;2010;41
+355;Croatia;2011;40
+356;Croatia;2012;46
+357;Croatia;2013;48
+358;Croatia;2014;48
+359;Croatia;2015;51
+360;Croatia;2016;49
+361;Croatia;2017;49
+362;Croatia;2018;48
+363;Croatia;2019;47
+364;Croatia;2020;47
+365;Cyprus;2006;56
+366;Cyprus;2009;66
+367;Cyprus;2010;63
+368;Cyprus;2011;63
+369;Cyprus;2012;66
+370;Cyprus;2013;63
+371;Cyprus;2014;63
+372;Cyprus;2015;61
+373;Cyprus;2016;55
+374;Cyprus;2017;57
+375;Cyprus;2018;57
+376;Cyprus;2019;58
+377;Czech Republic;2007;52
+378;Czech Republic;2010;46
+379;Czech Republic;2011;44
+380;Czech Republic;2012;49
+381;Czech Republic;2013;48
+382;Czech Republic;2014;51
+383;Czech Republic;2015;56
+384;Czech Republic;2016;55
+385;Czech Republic;2017;57
+386;Czech Republic;2018;56
+387;Czech Republic;2020;54
+388;Denmark;2007;94
+389;Denmark;2008;93
+390;Denmark;2009;93
+391;Denmark;2010;93
+392;Denmark;2011;94
+393;Denmark;2012;90
+394;Denmark;2013;91
+395;Denmark;2014;92
+396;Denmark;2015;91
+397;Denmark;2016;90
+398;Denmark;2017;88
+399;Denmark;2018;87
+400;Denmark;2019;87
+401;Denmark;2020;88
+402;Djibouti;2008;29
+403;Djibouti;2009;30
+404;Djibouti;2011;30
+405;Dominican Republic;2006;28
+406;Dominican Republic;2007;30
+407;Dominican Republic;2008;30
+408;Dominican Republic;2009;30
+409;Dominican Republic;2010;30
+410;Dominican Republic;2011;26
+411;Dominican Republic;2012;32
+412;Dominican Republic;2013;29
+413;Dominican Republic;2014;32
+414;Dominican Republic;2015;33
+415;Dominican Republic;2016;31
+416;Dominican Republic;2017;29
+417;Dominican Republic;2018;28
+418;Dominican Republic;2019;28
+419;Dominican Republic;2020;28
+420;Ecuador;2006;25
+421;Ecuador;2007;23
+422;Ecuador;2008;21
+423;Ecuador;2009;20
+424;Ecuador;2010;25
+425;Ecuador;2011;27
+426;Ecuador;2012;32
+427;Ecuador;2013;35
+428;Ecuador;2014;33
+429;Ecuador;2015;32
+430;Ecuador;2016;31
+431;Ecuador;2017;32
+432;Ecuador;2018;35
+433;Ecuador;2019;38
+434;Ecuador;2020;39
+435;Egypt;2009;28
+436;Egypt;2010;31
+437;Egypt;2011;29
+438;Egypt;2012;32
+439;Egypt;2013;32
+440;Egypt;2014;37
+441;Egypt;2015;36
+442;Egypt;2016;34
+443;El Salvador;2006;40
+444;El Salvador;2007;40
+445;El Salvador;2008;39
+446;El Salvador;2009;34
+447;El Salvador;2010;36
+448;El Salvador;2011;34
+449;El Salvador;2012;38
+450;El Salvador;2013;38
+451;El Salvador;2014;39
+452;El Salvador;2015;39
+453;El Salvador;2016;36
+454;El Salvador;2017;33
+455;El Salvador;2018;33
+456;El Salvador;2019;34
+457;El Salvador;2020;36
+458;Estonia;2006;67
+459;Estonia;2007;65
+460;Estonia;2008;66
+461;Estonia;2009;66
+462;Estonia;2011;64
+463;Estonia;2012;64
+464;Estonia;2013;68
+465;Estonia;2014;69
+466;Estonia;2015;70
+467;Estonia;2016;70
+468;Estonia;2017;71
+469;Estonia;2018;72
+470;Estonia;2019;74
+471;Estonia;2020;75
+472;Ethiopia;2013;33
+473;Ethiopia;2014;33
+474;Ethiopia;2015;33
+475;Ethiopia;2016;34
+476;Ethiopia;2017;35
+477;Ethiopia;2018;36
+478;Ethiopia;2019;37
+479;Ethiopia;2020;38
+480;Finland;2006;96
+481;Finland;2008;90
+482;Finland;2010;92
+483;Finland;2011;94
+484;Finland;2012;90
+485;Finland;2013;89
+486;Finland;2014;89
+487;Finland;2015;90
+488;Finland;2016;89
+489;Finland;2017;85
+490;Finland;2018;85
+491;Finland;2019;86
+492;Finland;2020;85
+493;France;2006;74
+494;France;2008;69
+495;France;2009;69
+496;France;2010;68
+497;France;2011;70
+498;France;2012;71
+499;France;2013;71
+500;France;2014;69
+501;France;2015;70
+502;France;2016;69
+503;France;2017;70
+504;France;2018;69
+505;France;2019;69
+506;France;2020;69
+507;Gabon;2011;30
+508;Gabon;2012;35
+509;Gabon;2013;34
+510;Gabon;2014;37
+511;Gabon;2015;34
+512;Gabon;2016;35
+513;Gabon;2017;32
+514;Gabon;2018;31
+515;Gabon;2019;31
+516;Gambia;2017;30
+517;Gambia;2018;33
+518;Gambia;2019;37
+519;Georgia;2006;28
+520;Georgia;2007;34
+521;Georgia;2008;39
+522;Georgia;2009;41
+523;Georgia;2010;38
+524;Georgia;2011;41
+525;Georgia;2012;52
+526;Georgia;2013;49
+527;Georgia;2014;52
+528;Georgia;2015;52
+529;Georgia;2016;57
+530;Georgia;2017;56
+531;Georgia;2018;56
+532;Georgia;2019;56
+533;Georgia;2020;56
+534;Germany;2007;78
+535;Germany;2009;80
+536;Germany;2010;79
+537;Germany;2011;80
+538;Germany;2012;79
+539;Germany;2013;78
+540;Germany;2014;79
+541;Germany;2015;81
+542;Germany;2016;81
+543;Germany;2017;81
+544;Germany;2018;80
+545;Germany;2019;80
+546;Germany;2020;80
+547;Ghana;2006;33
+548;Ghana;2007;37
+549;Ghana;2008;39
+550;Ghana;2009;39
+551;Ghana;2010;41
+552;Ghana;2011;39
+553;Ghana;2012;45
+554;Ghana;2013;46
+555;Ghana;2014;48
+556;Ghana;2015;47
+557;Ghana;2016;43
+558;Ghana;2017;40
+559;Ghana;2018;40
+560;Ghana;2019;41
+561;Ghana;2020;43
+562;Greece;2007;46
+563;Greece;2009;38
+564;Greece;2010;35
+565;Greece;2011;34
+566;Greece;2012;36
+567;Greece;2013;40
+568;Greece;2014;43
+569;Greece;2015;46
+570;Greece;2016;44
+571;Greece;2017;48
+572;Greece;2018;48
+573;Greece;2019;48
+574;Greece;2020;50
+575;Guatemala;2006;26
+576;Guatemala;2007;28
+577;Guatemala;2008;31
+578;Guatemala;2009;34
+579;Guatemala;2010;32
+580;Guatemala;2011;27
+581;Guatemala;2012;33
+582;Guatemala;2013;29
+583;Guatemala;2014;32
+584;Guatemala;2015;28
+585;Guatemala;2016;28
+586;Guatemala;2017;28
+587;Guatemala;2018;27
+588;Guatemala;2019;26
+589;Guinea;2011;21
+590;Guinea;2012;24
+591;Guinea;2013;24
+592;Guinea;2014;25
+593;Guinea;2015;25
+594;Guinea;2016;27
+595;Guinea;2017;27
+596;Guinea;2018;28
+597;Guinea;2019;29
+598;Guyana;2007;25
+599;Haiti;2006;18
+600;Haiti;2008;16
+601;Haiti;2010;22
+602;Haiti;2011;18
+603;Haiti;2012;19
+604;Haiti;2013;19
+605;Haiti;2014;19
+606;Haiti;2015;17
+607;Haiti;2016;20
+608;Haiti;2017;22
+609;Haiti;2018;20
+610;Honduras;2006;26
+611;Honduras;2007;25
+612;Honduras;2008;25
+613;Honduras;2009;26
+614;Honduras;2010;24
+615;Honduras;2011;26
+616;Honduras;2012;28
+617;Honduras;2013;26
+618;Honduras;2014;29
+619;Honduras;2015;31
+620;Honduras;2016;30
+621;Honduras;2017;29
+622;Honduras;2018;27
+623;Honduras;2019;26
+624;Hungary;2007;53
+625;Hungary;2009;51
+626;Hungary;2010;47
+627;Hungary;2011;46
+628;Hungary;2012;55
+629;Hungary;2013;54
+630;Hungary;2014;54
+631;Hungary;2015;51
+632;Hungary;2016;48
+633;Hungary;2017;45
+634;Hungary;2018;44
+635;Hungary;2019;44
+636;Hungary;2020;44
+637;Iceland;2008;89
+638;Iceland;2012;82
+639;Iceland;2013;78
+640;Iceland;2015;79
+641;Iceland;2016;78
+642;Iceland;2017;77
+643;Iceland;2020;75
+644;India;2007;35
+645;India;2008;34
+646;India;2009;34
+647;India;2010;33
+648;India;2011;31
+649;India;2012;36
+650;India;2013;36
+651;India;2014;38
+652;India;2015;38
+653;India;2016;40
+654;India;2017;40
+655;India;2018;40
+656;India;2019;41
+657;India;2020;40
+658;Indonesia;2006;24
+659;Indonesia;2007;23
+660;Indonesia;2008;26
+661;Indonesia;2009;28
+662;Indonesia;2010;28
+663;Indonesia;2011;30
+664;Indonesia;2012;32
+665;Indonesia;2013;32
+666;Indonesia;2014;34
+667;Indonesia;2015;36
+668;Indonesia;2016;37
+669;Indonesia;2017;37
+670;Indonesia;2018;38
+671;Indonesia;2019;40
+672;Iran;2007;27
+673;Iran;2008;25
+674;Iran;2011;27
+675;Iran;2013;25
+676;Iran;2014;27
+677;Iran;2015;27
+678;Iran;2016;29
+679;Iran;2017;30
+680;Iraq;2008;15
+681;Iraq;2009;13
+682;Iraq;2010;15
+683;Iraq;2011;18
+684;Iraq;2012;18
+685;Iraq;2014;16
+686;Iraq;2015;16
+687;Iraq;2016;17
+688;Iraq;2017;18
+689;Iraq;2018;19
+690;Iraq;2020;21
+691;Ireland;2006;74
+692;Ireland;2008;77
+693;Ireland;2009;80
+694;Ireland;2010;80
+695;Ireland;2011;75
+696;Ireland;2012;69
+697;Ireland;2013;72
+698;Ireland;2014;74
+699;Ireland;2015;75
+700;Ireland;2016;73
+701;Ireland;2017;74
+702;Ireland;2018;74
+703;Ireland;2019;74
+704;Ireland;2020;72
+705;Israel;2007;61
+706;Israel;2008;60
+707;Israel;2009;61
+708;Israel;2010;61
+709;Israel;2011;58
+710;Israel;2012;60
+711;Israel;2013;61
+712;Israel;2014;60
+713;Israel;2015;61
+714;Israel;2016;64
+715;Israel;2017;62
+716;Israel;2018;61
+717;Israel;2019;60
+718;Israel;2020;60
+719;Italy;2007;52
+720;Italy;2008;48
+721;Italy;2009;43
+722;Italy;2010;39
+723;Italy;2011;39
+724;Italy;2012;40
+725;Italy;2013;43
+726;Italy;2014;43
+727;Italy;2015;44
+728;Italy;2016;47
+729;Italy;2017;50
+730;Italy;2018;51
+731;Italy;2019;53
+732;Italy;2020;53
+733;Ivory Coast;2009;20
+734;Ivory Coast;2013;27
+735;Ivory Coast;2014;32
+736;Ivory Coast;2015;32
+737;Ivory Coast;2016;34
+738;Ivory Coast;2017;36
+739;Ivory Coast;2018;35
+740;Ivory Coast;2019;35
+741;Ivory Coast;2020;36
+742;Jamaica;2006;37
+743;Jamaica;2011;33
+744;Jamaica;2013;38
+745;Jamaica;2014;38
+746;Jamaica;2017;44
+747;Jamaica;2019;43
+748;Japan;2007;75
+749;Japan;2008;73
+750;Japan;2009;77
+751;Japan;2010;78
+752;Japan;2011;80
+753;Japan;2013;74
+754;Japan;2014;76
+755;Japan;2015;75
+756;Japan;2016;72
+757;Japan;2017;73
+758;Japan;2018;73
+759;Japan;2019;73
+760;Japan;2020;74
+761;Jordan;2007;47
+762;Jordan;2009;50
+763;Kazakhstan;2006;26
+764;Kazakhstan;2007;21
+765;Kazakhstan;2008;22
+766;Kazakhstan;2009;27
+767;Kazakhstan;2010;29
+768;Kazakhstan;2011;27
+769;Kazakhstan;2012;28
+770;Kazakhstan;2013;26
+771;Kazakhstan;2014;29
+772;Kazakhstan;2015;28
+773;Kazakhstan;2016;29
+774;Kazakhstan;2017;31
+775;Kazakhstan;2018;32
+776;Kazakhstan;2019;34
+777;Kazakhstan;2020;38
+778;Kenya;2006;21
+779;Kenya;2007;22
+780;Kenya;2008;21
+781;Kenya;2009;21
+782;Kenya;2010;21
+783;Kenya;2012;27
+784;Kenya;2013;27
+785;Kenya;2014;25
+786;Kenya;2015;25
+787;Kenya;2016;26
+788;Kenya;2017;28
+789;Kenya;2018;28
+790;Kenya;2019;28
+791;Kenya;2020;31
+792;Kuwait;2006;48
+793;Kuwait;2009;41
+794;Kuwait;2010;45
+795;Kyrgyzstan;2015;28
+796;Kyrgyzstan;2016;28
+797;Kyrgyzstan;2017;29
+798;Kyrgyzstan;2018;29
+799;Kyrgyzstan;2019;30
+800;Kyrgyzstan;2020;31
+801;Laos;2017;29
+802;Laos;2018;29
+803;Laos;2019;29
+804;Laos;2020;29
+805;Latvia;2006;47
+806;Latvia;2007;48
+807;Latvia;2008;50
+808;Latvia;2009;45
+809;Latvia;2011;42
+810;Latvia;2012;49
+811;Latvia;2013;53
+812;Latvia;2014;55
+813;Latvia;2015;56
+814;Latvia;2016;57
+815;Latvia;2017;58
+816;Latvia;2018;57
+817;Latvia;2019;56
+818;Latvia;2020;57
+819;Lebanon;2006;31
+820;Lebanon;2008;30
+821;Lebanon;2009;30
+822;Lebanon;2010;25
+823;Lebanon;2011;25
+824;Lebanon;2012;30
+825;Lebanon;2013;28
+826;Lebanon;2014;27
+827;Lebanon;2015;28
+828;Lebanon;2016;28
+829;Lebanon;2017;28
+830;Lebanon;2018;28
+831;Lebanon;2019;28
+832;Lesotho;2011;35
+833;Lesotho;2016;39
+834;Lesotho;2017;42
+835;Lesotho;2019;40
+836;Liberia;2007;21
+837;Liberia;2008;24
+838;Liberia;2010;33
+839;Liberia;2014;37
+840;Liberia;2015;37
+841;Liberia;2016;37
+842;Liberia;2017;31
+843;Liberia;2018;29
+844;Liberia;2019;28
+845;Libya;2012;21
+846;Libya;2017;17
+847;Libya;2018;17
+848;Libya;2019;18
+849;Lithuania;2006;48
+850;Lithuania;2007;48
+851;Lithuania;2008;46
+852;Lithuania;2009;49
+853;Lithuania;2010;50
+854;Lithuania;2011;48
+855;Lithuania;2012;54
+856;Lithuania;2013;57
+857;Lithuania;2014;58
+858;Lithuania;2015;59
+859;Lithuania;2016;59
+860;Lithuania;2017;59
+861;Lithuania;2018;59
+862;Lithuania;2019;60
+863;Lithuania;2020;60
+864;Luxembourg;2009;82
+865;Luxembourg;2010;85
+866;Luxembourg;2011;85
+867;Luxembourg;2012;80
+868;Luxembourg;2013;80
+869;Luxembourg;2014;82
+870;Luxembourg;2015;85
+871;Luxembourg;2016;81
+872;Luxembourg;2017;82
+873;Luxembourg;2018;81
+874;Luxembourg;2019;80
+875;Madagascar;2008;32
+876;Madagascar;2011;30
+877;Madagascar;2012;32
+878;Madagascar;2013;28
+879;Madagascar;2014;28
+880;Madagascar;2015;28
+881;Madagascar;2016;26
+882;Madagascar;2017;24
+883;Madagascar;2018;24
+884;Madagascar;2019;24
+885;Malawi;2006;27
+886;Malawi;2007;27
+887;Malawi;2009;33
+888;Malawi;2011;30
+889;Malawi;2012;37
+890;Malawi;2013;37
+891;Malawi;2014;33
+892;Malawi;2015;31
+893;Malawi;2016;31
+894;Malawi;2017;31
+895;Malawi;2018;31
+896;Malawi;2019;31
+897;Malaysia;2006;50
+898;Malaysia;2007;51
+899;Malaysia;2008;51
+900;Malaysia;2009;45
+901;Malaysia;2010;44
+902;Malaysia;2011;43
+903;Malaysia;2012;49
+904;Malaysia;2013;50
+905;Malaysia;2014;52
+906;Malaysia;2015;50
+907;Malaysia;2018;50
+908;Malaysia;2019;53
+909;Mali;2006;29
+910;Mali;2008;27
+911;Mali;2009;31
+912;Mali;2010;27
+913;Mali;2011;28
+914;Mali;2012;34
+915;Mali;2013;28
+916;Mali;2014;32
+917;Mali;2015;35
+918;Mali;2016;32
+919;Mali;2017;31
+920;Mali;2018;30
+921;Mali;2019;29
+922;Malta;2014;55
+923;Malta;2015;60
+924;Malta;2016;55
+925;Malta;2017;56
+926;Malta;2018;55
+927;Malta;2019;54
+928;Mauritania;2007;31
+929;Mauritania;2008;26
+930;Mauritania;2009;28
+931;Mauritania;2010;23
+932;Mauritania;2011;24
+933;Mauritania;2012;31
+934;Mauritania;2013;30
+935;Mauritania;2014;30
+936;Mauritania;2015;31
+937;Mauritania;2016;27
+938;Mauritania;2017;28
+939;Mauritania;2018;28
+940;Mauritania;2019;28
+941;Mauritius;2011;51
+942;Mauritius;2014;54
+943;Mauritius;2016;54
+944;Mauritius;2017;50
+945;Mauritius;2018;51
+946;Mauritius;2019;52
+947;Mauritius;2020;53
+948;Mexico;2007;35
+949;Mexico;2008;36
+950;Mexico;2009;33
+951;Mexico;2010;31
+952;Mexico;2011;30
+953;Mexico;2012;34
+954;Mexico;2013;34
+955;Mexico;2014;35
+956;Mexico;2015;31
+957;Mexico;2016;30
+958;Mexico;2017;29
+959;Mexico;2018;29
+960;Mexico;2019;29
+961;Mexico;2020;31
+962;Moldova;2006;32
+963;Moldova;2007;28
+964;Moldova;2008;29
+965;Moldova;2009;33
+966;Moldova;2010;29
+967;Moldova;2011;29
+968;Moldova;2012;36
+969;Moldova;2013;35
+970;Moldova;2014;35
+971;Moldova;2015;33
+972;Moldova;2016;30
+973;Moldova;2017;31
+974;Moldova;2018;31
+975;Moldova;2019;32
+976;Moldova;2020;34
+977;Mongolia;2007;28
+978;Mongolia;2008;30
+979;Mongolia;2010;27
+980;Mongolia;2011;27
+981;Mongolia;2012;36
+982;Mongolia;2013;38
+983;Mongolia;2014;39
+984;Mongolia;2015;39
+985;Mongolia;2016;38
+986;Mongolia;2017;36
+987;Mongolia;2018;35
+988;Mongolia;2019;35
+989;Mongolia;2020;35
+990;Montenegro;2007;33
+991;Montenegro;2009;39
+992;Montenegro;2010;37
+993;Montenegro;2011;40
+994;Montenegro;2012;41
+995;Montenegro;2013;44
+996;Montenegro;2014;42
+997;Montenegro;2015;44
+998;Montenegro;2016;45
+999;Montenegro;2017;46
+1000;Montenegro;2018;45
+1001;Montenegro;2019;45
+1002;Montenegro;2020;45
+1003;Morocco;2011;30
+1004;Morocco;2012;37
+1005;Morocco;2013;37
+1006;Morocco;2015;36
+1007;Morocco;2016;37
+1008;Morocco;2017;40
+1009;Morocco;2018;40
+1010;Morocco;2019;41
+1011;Morocco;2020;40
+1012;Mozambique;2006;28
+1013;Mozambique;2007;28
+1014;Mozambique;2008;28
+1015;Mozambique;2011;27
+1016;Mozambique;2015;31
+1017;Mozambique;2017;25
+1018;Mozambique;2018;25
+1019;Mozambique;2019;26
+1020;Myanmar;2015;22
+1021;Myanmar;2016;28
+1022;Myanmar;2017;30
+1023;Myanmar;2018;29
+1024;Myanmar;2019;29
+1025;Myanmar;2020;28
+1026;Namibia;2007;45
+1027;Namibia;2014;49
+1028;Namibia;2017;51
+1029;Namibia;2018;51
+1030;Namibia;2019;52
+1031;Namibia;2020;51
+1032;Nepal;2007;25
+1033;Nepal;2008;25
+1034;Nepal;2009;27
+1035;Nepal;2010;22
+1036;Nepal;2011;22
+1037;Nepal;2012;27
+1038;Nepal;2013;31
+1039;Nepal;2014;29
+1040;Nepal;2015;27
+1041;Nepal;2016;29
+1042;Nepal;2017;31
+1043;Nepal;2018;32
+1044;Nepal;2019;34
+1045;Netherlands;2007;90
+1046;Netherlands;2008;89
+1047;Netherlands;2010;88
+1048;Netherlands;2011;89
+1049;Netherlands;2012;84
+1050;Netherlands;2013;83
+1051;Netherlands;2014;83
+1052;Netherlands;2015;84
+1053;Netherlands;2016;83
+1054;Netherlands;2017;82
+1055;Netherlands;2018;82
+1056;Netherlands;2019;82
+1057;Netherlands;2020;82
+1058;New Zealand;2006;96
+1059;New Zealand;2007;94
+1060;New Zealand;2008;93
+1061;New Zealand;2010;93
+1062;New Zealand;2011;95
+1063;New Zealand;2012;90
+1064;New Zealand;2013;91
+1065;New Zealand;2014;91
+1066;New Zealand;2015;91
+1067;New Zealand;2016;90
+1068;New Zealand;2017;89
+1069;New Zealand;2018;88
+1070;New Zealand;2019;87
+1071;New Zealand;2020;88
+1072;Nicaragua;2006;26
+1073;Nicaragua;2007;26
+1074;Nicaragua;2008;26
+1075;Nicaragua;2009;25
+1076;Nicaragua;2010;25
+1077;Nicaragua;2011;25
+1078;Nicaragua;2012;29
+1079;Nicaragua;2013;28
+1080;Nicaragua;2014;28
+1081;Nicaragua;2015;27
+1082;Nicaragua;2016;26
+1083;Nicaragua;2017;26
+1084;Nicaragua;2018;24
+1085;Nicaragua;2019;22
+1086;Niger;2006;24
+1087;Niger;2007;23
+1088;Niger;2008;26
+1089;Niger;2009;28
+1090;Niger;2010;26
+1091;Niger;2011;25
+1092;Niger;2012;33
+1093;Niger;2013;34
+1094;Niger;2014;35
+1095;Niger;2015;34
+1096;Niger;2016;35
+1097;Niger;2017;33
+1098;Niger;2018;32
+1099;Niger;2019;32
+1100;Nigeria;2006;19
+1101;Nigeria;2007;22
+1102;Nigeria;2008;22
+1103;Nigeria;2009;27
+1104;Nigeria;2010;24
+1105;Nigeria;2012;27
+1106;Nigeria;2013;25
+1107;Nigeria;2015;26
+1108;Nigeria;2016;28
+1109;Nigeria;2017;27
+1110;Nigeria;2018;26
+1111;Nigeria;2019;26
+1112;Nigeria;2020;25
+1113;North Macedonia;2007;33
+1114;North Macedonia;2009;38
+1115;North Macedonia;2010;41
+1116;North Macedonia;2011;39
+1117;North Macedonia;2012;43
+1118;North Macedonia;2013;44
+1119;North Macedonia;2014;45
+1120;North Macedonia;2015;42
+1121;North Macedonia;2016;37
+1122;North Macedonia;2017;35
+1123;North Macedonia;2018;35
+1124;North Macedonia;2019;35
+1125;North Macedonia;2020;35
+1126;Norway;2006;88
+1127;Norway;2008;79
+1128;Norway;2012;85
+1129;Norway;2014;86
+1130;Norway;2015;88
+1131;Norway;2016;85
+1132;Norway;2017;85
+1133;Norway;2018;84
+1134;Norway;2019;84
+1135;Norway;2020;84
+1136;Pakistan;2007;22
+1137;Pakistan;2008;24
+1138;Pakistan;2009;25
+1139;Pakistan;2010;23
+1140;Pakistan;2011;25
+1141;Pakistan;2012;27
+1142;Pakistan;2013;28
+1143;Pakistan;2014;29
+1144;Pakistan;2015;30
+1145;Pakistan;2016;32
+1146;Pakistan;2017;32
+1147;Pakistan;2018;32
+1148;Pakistan;2019;32
+1149;Panama;2006;31
+1150;Panama;2007;32
+1151;Panama;2008;34
+1152;Panama;2009;34
+1153;Panama;2010;36
+1154;Panama;2011;33
+1155;Panama;2012;38
+1156;Panama;2013;35
+1157;Panama;2014;37
+1158;Panama;2015;39
+1159;Panama;2016;38
+1160;Panama;2017;37
+1161;Panama;2018;36
+1162;Panama;2019;36
+1163;Paraguay;2006;21
+1164;Paraguay;2007;26
+1165;Paraguay;2008;24
+1166;Paraguay;2009;24
+1167;Paraguay;2010;22
+1168;Paraguay;2011;22
+1169;Paraguay;2012;25
+1170;Paraguay;2013;24
+1171;Paraguay;2014;24
+1172;Paraguay;2015;27
+1173;Paraguay;2016;30
+1174;Paraguay;2017;29
+1175;Paraguay;2019;28
+1176;Peru;2006;33
+1177;Peru;2007;35
+1178;Peru;2008;36
+1179;Peru;2009;37
+1180;Peru;2010;35
+1181;Peru;2011;34
+1182;Peru;2012;38
+1183;Peru;2013;38
+1184;Peru;2014;38
+1185;Peru;2015;36
+1186;Peru;2016;35
+1187;Peru;2017;37
+1188;Peru;2018;36
+1189;Peru;2019;36
+1190;Philippines;2007;25
+1191;Philippines;2008;25
+1192;Philippines;2009;23
+1193;Philippines;2010;24
+1194;Philippines;2011;26
+1195;Philippines;2012;34
+1196;Philippines;2013;36
+1197;Philippines;2014;38
+1198;Philippines;2015;35
+1199;Philippines;2016;35
+1200;Philippines;2017;34
+1201;Philippines;2018;34
+1202;Philippines;2019;34
+1203;Philippines;2020;34
+1204;Poland;2007;42
+1205;Poland;2009;50
+1206;Poland;2010;53
+1207;Poland;2011;55
+1208;Poland;2012;58
+1209;Poland;2013;60
+1210;Poland;2014;61
+1211;Poland;2015;63
+1212;Poland;2016;62
+1213;Poland;2017;60
+1214;Poland;2018;59
+1215;Poland;2019;58
+1216;Poland;2020;56
+1217;Portugal;2006;66
+1218;Portugal;2008;61
+1219;Portugal;2010;60
+1220;Portugal;2011;61
+1221;Portugal;2012;63
+1222;Portugal;2013;62
+1223;Portugal;2014;63
+1224;Portugal;2015;64
+1225;Portugal;2016;62
+1226;Portugal;2017;63
+1227;Portugal;2018;62
+1228;Portugal;2019;62
+1229;Portugal;2020;61
+1230;Qatar;2009;70
+1231;Romania;2007;37
+1232;Romania;2009;38
+1233;Romania;2010;37
+1234;Romania;2011;36
+1235;Romania;2012;44
+1236;Romania;2013;43
+1237;Romania;2014;43
+1238;Romania;2015;46
+1239;Romania;2016;48
+1240;Romania;2017;48
+1241;Romania;2018;46
+1242;Romania;2019;44
+1243;Russia;2006;24
+1244;Russia;2007;25
+1245;Russia;2008;23
+1246;Russia;2009;21
+1247;Russia;2010;21
+1248;Russia;2011;24
+1249;Russia;2012;28
+1250;Russia;2013;28
+1251;Russia;2014;27
+1252;Russia;2015;29
+1253;Russia;2016;29
+1254;Russia;2017;29
+1255;Russia;2018;28
+1256;Russia;2019;28
+1257;Russia;2020;30
+1258;Rwanda;2008;30
+1259;Rwanda;2009;33
+1260;Rwanda;2011;50
+1261;Rwanda;2012;53
+1262;Rwanda;2013;53
+1263;Rwanda;2014;49
+1264;Rwanda;2015;54
+1265;Rwanda;2016;54
+1266;Rwanda;2017;55
+1267;Rwanda;2018;54
+1268;Rwanda;2019;53
+1269;Saudi Arabia;2008;35
+1270;Saudi Arabia;2009;43
+1271;Senegal;2006;33
+1272;Senegal;2007;36
+1273;Senegal;2008;34
+1274;Senegal;2009;30
+1275;Senegal;2010;29
+1276;Senegal;2011;29
+1277;Senegal;2012;46
+1278;Senegal;2013;41
+1279;Senegal;2014;43
+1280;Senegal;2015;44
+1281;Senegal;2016;45
+1282;Senegal;2017;45
+1283;Senegal;2018;45
+1284;Senegal;2019;45
+1285;Serbia;2015;40
+1286;Serbia;2016;42
+1287;Serbia;2017;41
+1288;Serbia;2018;40
+1289;Serbia;2019;39
+1290;Serbia;2020;38
+1291;Sierra Leone;2006;24
+1292;Sierra Leone;2007;22
+1293;Sierra Leone;2008;21
+1294;Sierra Leone;2010;24
+1295;Sierra Leone;2011;25
+1296;Sierra Leone;2013;30
+1297;Sierra Leone;2014;31
+1298;Sierra Leone;2015;29
+1299;Sierra Leone;2016;30
+1300;Sierra Leone;2017;30
+1301;Sierra Leone;2018;31
+1302;Sierra Leone;2019;33
+1303;Singapore;2007;93
+1304;Singapore;2008;92
+1305;Singapore;2009;92
+1306;Singapore;2010;93
+1307;Singapore;2011;92
+1308;Singapore;2013;86
+1309;Singapore;2014;84
+1310;Singapore;2015;85
+1311;Singapore;2016;84
+1312;Singapore;2017;84
+1313;Singapore;2018;84
+1314;Singapore;2019;85
+1315;Slovakia;2006;47
+1316;Slovakia;2010;43
+1317;Slovakia;2011;40
+1318;Slovakia;2012;46
+1319;Slovakia;2013;47
+1320;Slovakia;2014;50
+1321;Slovakia;2015;51
+1322;Slovakia;2016;51
+1323;Slovakia;2017;50
+1324;Slovakia;2018;50
+1325;Slovakia;2019;50
+1326;Slovakia;2020;49
+1327;Slovenia;2006;64
+1328;Slovenia;2009;66
+1329;Slovenia;2010;64
+1330;Slovenia;2011;59
+1331;Slovenia;2012;61
+1332;Slovenia;2013;57
+1333;Slovenia;2014;58
+1334;Slovenia;2015;60
+1335;Slovenia;2016;61
+1336;Slovenia;2017;61
+1337;Slovenia;2018;60
+1338;Slovenia;2019;60
+1339;Slovenia;2020;60
+1340;South Africa;2007;51
+1341;South Africa;2008;49
+1342;South Africa;2009;47
+1343;South Africa;2010;45
+1344;South Africa;2011;41
+1345;South Africa;2012;43
+1346;South Africa;2013;42
+1347;South Africa;2014;44
+1348;South Africa;2015;44
+1349;South Africa;2016;45
+1350;South Africa;2017;43
+1351;South Africa;2018;43
+1352;South Africa;2019;44
+1353;South Africa;2020;44
+1354;South Korea;2006;51
+1355;South Korea;2007;51
+1356;South Korea;2008;56
+1357;South Korea;2009;55
+1358;South Korea;2010;54
+1359;South Korea;2011;54
+1360;South Korea;2013;55
+1361;South Korea;2014;55
+1362;South Korea;2015;54
+1363;South Korea;2016;53
+1364;South Korea;2017;54
+1365;South Korea;2018;56
+1366;South Korea;2019;59
+1367;South Korea;2020;61
+1368;Spain;2007;67
+1369;Spain;2008;65
+1370;Spain;2009;61
+1371;Spain;2010;61
+1372;Spain;2011;62
+1373;Spain;2012;65
+1374;Spain;2013;59
+1375;Spain;2014;60
+1376;Spain;2015;58
+1377;Spain;2016;58
+1378;Spain;2017;57
+1379;Spain;2018;59
+1380;Spain;2019;62
+1381;Spain;2020;62
+1382;Sri Lanka;2006;31
+1383;Sri Lanka;2007;32
+1384;Sri Lanka;2008;32
+1385;Sri Lanka;2009;31
+1386;Sri Lanka;2010;32
+1387;Sri Lanka;2011;33
+1388;Sri Lanka;2012;40
+1389;Sri Lanka;2013;37
+1390;Sri Lanka;2014;38
+1391;Sri Lanka;2015;37
+1392;Sri Lanka;2017;38
+1393;Sri Lanka;2018;38
+1394;Sri Lanka;2019;38
+1395;Sudan;2009;16
+1396;Sudan;2010;16
+1397;Sudan;2011;16
+1398;Sudan;2012;13
+1399;Sudan;2014;11
+1400;Swaziland;2018;36
+1401;Swaziland;2019;34
+1402;Sweden;2007;93
+1403;Sweden;2008;93
+1404;Sweden;2009;92
+1405;Sweden;2010;92
+1406;Sweden;2011;93
+1407;Sweden;2012;88
+1408;Sweden;2013;89
+1409;Sweden;2014;87
+1410;Sweden;2015;89
+1411;Sweden;2016;88
+1412;Sweden;2017;84
+1413;Sweden;2018;84
+1414;Sweden;2019;85
+1415;Sweden;2020;85
+1416;Switzerland;2006;91
+1417;Switzerland;2009;90
+1418;Switzerland;2012;86
+1419;Switzerland;2014;86
+1420;Switzerland;2015;86
+1421;Switzerland;2016;86
+1422;Switzerland;2017;85
+1423;Switzerland;2018;85
+1424;Switzerland;2019;85
+1425;Switzerland;2020;85
+1426;Syria;2008;24
+1427;Syria;2009;21
+1428;Syria;2010;25
+1429;Syria;2011;26
+1430;Syria;2012;26
+1431;Syria;2013;17
+1432;Syria;2015;18
+1433;Taiwan Province of China;2006;59
+1434;Taiwan Province of China;2008;57
+1435;Taiwan Province of China;2010;58
+1436;Tajikistan;2006;21
+1437;Tajikistan;2007;22
+1438;Tajikistan;2008;21
+1439;Tajikistan;2009;20
+1440;Tajikistan;2010;21
+1441;Tajikistan;2011;23
+1442;Tajikistan;2012;22
+1443;Tajikistan;2013;22
+1444;Tajikistan;2014;23
+1445;Tajikistan;2015;26
+1446;Tajikistan;2016;25
+1447;Tajikistan;2017;21
+1448;Tanzania;2006;29
+1449;Tanzania;2007;29
+1450;Tanzania;2008;32
+1451;Tanzania;2009;30
+1452;Tanzania;2010;27
+1453;Tanzania;2011;30
+1454;Tanzania;2012;35
+1455;Tanzania;2013;33
+1456;Tanzania;2014;31
+1457;Tanzania;2015;30
+1458;Tanzania;2016;32
+1459;Tanzania;2017;36
+1460;Tanzania;2018;36
+1461;Tanzania;2019;37
+1462;Tanzania;2020;38
+1463;Thailand;2006;36
+1464;Thailand;2007;33
+1465;Thailand;2008;35
+1466;Thailand;2009;34
+1467;Thailand;2010;35
+1468;Thailand;2011;34
+1469;Thailand;2012;37
+1470;Thailand;2013;35
+1471;Thailand;2014;38
+1472;Thailand;2015;38
+1473;Thailand;2016;35
+1474;Thailand;2017;37
+1475;Thailand;2018;36
+1476;Thailand;2019;36
+1477;Thailand;2020;36
+1478;Togo;2008;23
+1479;Togo;2011;24
+1480;Togo;2014;29
+1481;Togo;2015;32
+1482;Togo;2016;32
+1483;Togo;2017;32
+1484;Togo;2018;30
+1485;Togo;2019;29
+1486;Trinidad and Tobago;2006;32
+1487;Trinidad and Tobago;2008;36
+1488;Trinidad and Tobago;2011;32
+1489;Trinidad and Tobago;2013;38
+1490;Trinidad and Tobago;2017;41
+1491;Tunisia;2010;43
+1492;Tunisia;2011;38
+1493;Tunisia;2012;41
+1494;Tunisia;2013;41
+1495;Tunisia;2014;40
+1496;Tunisia;2015;38
+1497;Tunisia;2016;41
+1498;Tunisia;2017;42
+1499;Tunisia;2018;42
+1500;Tunisia;2019;43
+1501;Tunisia;2020;44
+1502;Turkey;2007;41
+1503;Turkey;2008;46
+1504;Turkey;2009;44
+1505;Turkey;2010;44
+1506;Turkey;2011;42
+1507;Turkey;2012;49
+1508;Turkey;2013;50
+1509;Turkey;2014;45
+1510;Turkey;2015;42
+1511;Turkey;2016;41
+1512;Turkey;2017;40
+1513;Turkey;2018;39
+1514;Turkey;2019;39
+1515;Turkey;2020;40
+1516;Uganda;2006;25
+1517;Uganda;2007;27
+1518;Uganda;2008;28
+1519;Uganda;2009;26
+1520;Uganda;2010;25
+1521;Uganda;2011;24
+1522;Uganda;2012;29
+1523;Uganda;2013;26
+1524;Uganda;2014;26
+1525;Uganda;2015;25
+1526;Uganda;2016;25
+1527;Uganda;2017;26
+1528;Uganda;2018;27
+1529;Uganda;2019;28
+1530;Uganda;2020;27
+1531;Ukraine;2006;26
+1532;Ukraine;2007;28
+1533;Ukraine;2008;27
+1534;Ukraine;2009;25
+1535;Ukraine;2010;24
+1536;Ukraine;2011;23
+1537;Ukraine;2012;26
+1538;Ukraine;2013;25
+1539;Ukraine;2014;26
+1540;Ukraine;2015;27
+1541;Ukraine;2016;29
+1542;Ukraine;2017;30
+1543;Ukraine;2018;30
+1544;Ukraine;2019;30
+1545;Ukraine;2020;33
+1546;United Arab Emirates;2006;62
+1547;United Arab Emirates;2009;65
+1548;United Arab Emirates;2010;63
+1549;United Kingdom;2007;84
+1550;United Kingdom;2008;77
+1551;United Kingdom;2009;77
+1552;United Kingdom;2010;76
+1553;United Kingdom;2011;78
+1554;United Kingdom;2012;74
+1555;United Kingdom;2013;76
+1556;United Kingdom;2014;78
+1557;United Kingdom;2015;81
+1558;United Kingdom;2016;81
+1559;United Kingdom;2017;82
+1560;United Kingdom;2018;79
+1561;United Kingdom;2019;77
+1562;United Kingdom;2020;77
+1563;United States;2008;73
+1564;United States;2009;75
+1565;United States;2010;71
+1566;United States;2011;71
+1567;United States;2012;73
+1568;United States;2013;73
+1569;United States;2014;74
+1570;United States;2015;76
+1571;United States;2016;74
+1572;United States;2017;75
+1573;United States;2018;72
+1574;United States;2019;69
+1575;United States;2020;67
+1576;Uruguay;2006;64
+1577;Uruguay;2007;67
+1578;Uruguay;2008;69
+1579;Uruguay;2009;67
+1580;Uruguay;2010;69
+1581;Uruguay;2011;70
+1582;Uruguay;2012;72
+1583;Uruguay;2013;73
+1584;Uruguay;2014;73
+1585;Uruguay;2015;74
+1586;Uruguay;2016;71
+1587;Uruguay;2017;70
+1588;Uruguay;2018;70
+1589;Uruguay;2019;71
+1590;Uruguay;2020;71
+1591;Uzbekistan;2006;22
+1592;Uzbekistan;2011;16
+1593;Uzbekistan;2012;17
+1594;Uzbekistan;2013;17
+1595;Uzbekistan;2014;18
+1596;Uzbekistan;2015;19
+1597;Uzbekistan;2017;22
+1598;Uzbekistan;2018;23
+1599;Uzbekistan;2019;25
+1600;Venezuela;2006;23
+1601;Venezuela;2008;20
+1602;Venezuela;2009;19
+1603;Venezuela;2010;20
+1604;Venezuela;2011;19
+1605;Venezuela;2012;19
+1606;Venezuela;2013;20
+1607;Venezuela;2014;19
+1608;Venezuela;2015;17
+1609;Venezuela;2016;17
+1610;Venezuela;2017;18
+1611;Vietnam;2016;33
+1612;Vietnam;2018;36
+1613;Vietnam;2019;37
+1614;Yemen;2009;23
+1615;Yemen;2010;22
+1616;Yemen;2011;21
+1617;Yemen;2012;23
+1618;Yemen;2013;18
+1619;Yemen;2014;19
+1620;Yemen;2015;18
+1621;Zambia;2006;26
+1622;Zambia;2007;26
+1623;Zambia;2008;28
+1624;Zambia;2009;30
+1625;Zambia;2011;32
+1626;Zambia;2012;37
+1627;Zambia;2013;38
+1628;Zambia;2014;38
+1629;Zambia;2015;38
+1630;Zambia;2016;38
+1631;Zambia;2017;37
+1632;Zambia;2018;35
+1633;Zambia;2019;34
+1634;Zambia;2020;33
+1635;Zimbabwe;2006;26
+1636;Zimbabwe;2007;24
+1637;Zimbabwe;2008;21
+1638;Zimbabwe;2009;18
+1639;Zimbabwe;2010;24
+1640;Zimbabwe;2011;22
+1641;Zimbabwe;2012;20
+1642;Zimbabwe;2013;21
+1643;Zimbabwe;2014;21
+1644;Zimbabwe;2015;21
+1645;Zimbabwe;2016;22
+1646;Zimbabwe;2017;22
+1647;Zimbabwe;2018;23
+1648;Zimbabwe;2019;24
+1649;Zimbabwe;2020;24
