@@ -79,7 +79,7 @@ def app():
     # ----------------------------------------------------------------------------
     df_map = df_1[df_1['Year'] == year_side]
     
-    country_geo = os.path.join('world-countries.json')
+    country_geo = os.path.join('streamlit/world-countries.json')
     
     #m = folium.Map()
     m = folium.Map(location=[10, 0], zoom_start=1.5)
