@@ -28,7 +28,8 @@ def app():
     
     # IMPORT USEFULL LIBRARIES
     # ----------------------------------------------------------------------------
-    from streamlit_folium import folium_static
+    #from streamlit_folium import folium_static
+    import streamlit_folium.folium_static
     import folium
     import os
     import seaborn as sns
