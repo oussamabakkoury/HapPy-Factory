@@ -57,7 +57,7 @@ def app():
                                                                     "Amérique latine",
                                                                     "Afrique du Nord et Moyen-Orient"])
         ##Affichage des cartes
-    country_geo = os.path.join('world-countries.json')
+    country_geo = os.path.join('Streamlit','world-countries.json')
     def imp(affichage):
         if affichage=="Monde entier":
             m = folium.Map()
