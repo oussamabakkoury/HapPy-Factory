@@ -7,4 +7,5 @@ pandas==1.2.3
 joblib==0.16.0
 scikit-learn
 streamlit_folium
-bokeh
+bokeh==2.4.1
+python==3.8.8
