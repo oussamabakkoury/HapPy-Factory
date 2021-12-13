@@ -8,4 +8,3 @@ joblib==0.16.0
 scikit-learn
 streamlit_folium
 bokeh==2.4.1
-python==3.8.8
