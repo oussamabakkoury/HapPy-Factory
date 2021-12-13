@@ -1,13 +1,14 @@
 import streamlit as st
 import numpy as np
 import pandas as pd
-#from sklearn import model_selection, preprocessing
+
 scores=[0]
 
 def app():
     st.title('HapPy Factory')
     st.header("Regression linéaire de Lasso")
-
+    
+    from sklearn import model_selection, preprocessing
     from sklearn.model_selection import train_test_split
     from sklearn.linear_model import LassoCV
 
